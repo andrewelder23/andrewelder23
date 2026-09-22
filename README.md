@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Andrew Elder
-LinkedIn:
+LinkedIn: www.linkedin.com/in/andrew-elder-b21489439
 - 🔭 I’m currently working on enhancing a website (houstonstressans.com) by creating web apps to generate more flow.  
 - 🌱 I’m currently learning statistics
 - 👯 I’m looking to collaborate on a college football predictor model.
